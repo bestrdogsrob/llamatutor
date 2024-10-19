@@ -1,11 +1,17 @@
-<a href="https://www.llamatutor.com">
-  <img alt="Llama Tutor" src="./public/og-image.png">
-  <h1 align="center">Llama Tutor</h1>
+<a href="https://www.bestr.com">
+  <img alt="Bestr AI Tutor" src="./public/og-image.png">
+  <h1 align="center">Bestr AI Tutor</h1>
 </a>
 
 <p align="center">
-  An open source AI personal tutor. Powered by Llama 3 70B & Together.ai
+  A fork of the Llama Tutor, re-imagined as Bestr AI Tutor. Powered by Llama 3 70B & Together.ai
 </p>
+
+## Acknowledgements
+
+This project is a fork of [Llama Tutor](https://www.llamatutor.com), an open-source AI personal tutor. Huge thanks to the original creator for their hard work and inspiration!
+
+---
 
 ## Tech stack
 
@@ -27,7 +33,7 @@
 
 ## Future Tasks
 
-- [ ] Add a share & copy buttons that folks can click on after convos are generated
+- [ ] Add a share & copy buttons that folks can click on after conversations are generated
 - [ ] Add potential follow up questions + new chat at the end of chat page
 - [ ] Split the page into two pages and add back the footer
 - [ ] Move all my icons into their own typescript file (transform.tools)
